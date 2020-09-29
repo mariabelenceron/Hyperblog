@@ -5,3 +5,4 @@ Un blog para el curso de git y github de platzi
 Muy interesante el curso **RECOMENDADO**
 Aprendiendo siempre todos los dias
 * Incluye muchos ejemplos de los comandos
+* Para todas las edades
